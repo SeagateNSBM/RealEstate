@@ -3,7 +3,7 @@ import ADT.*;
 
 /**
  *
- * @author seagate02
+ * @author praneeth
  */
 
 public class ListHouse implements Listable
