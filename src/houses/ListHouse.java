@@ -8,7 +8,7 @@ import ADT.*;
 
 public class ListHouse implements Listable
 {
-// House information
+// House informations
 private String lastName;
 private String firstName;
 private int lotNumber;
