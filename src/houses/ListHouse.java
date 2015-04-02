@@ -7,7 +7,7 @@ import ADT.*;
 
 /**
  *
- * @author seagate
+ * @author seagate02
  */
 
 public class ListHouse implements Listable
