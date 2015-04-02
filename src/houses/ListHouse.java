@@ -26,7 +26,7 @@ this.squareFeet = squareFeet;
 this.bedRooms = bedRooms;
 }
 public Listable copy()
-// Returns a copy of this ListHouse
+// Returns a copy of this ListHouses
 {
 ListHouse result = new ListHouse(lastName, firstName, lotNumber, price,
 squareFeet, bedRooms);
